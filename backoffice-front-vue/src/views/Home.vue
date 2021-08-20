@@ -31,6 +31,7 @@ export default {
   width: 80vw;
 }
 #logo {
-  height: 50vh;
+  max-height: 70vh;
+  max-width: 50vw;
 }
 </style>
